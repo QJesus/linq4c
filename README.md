@@ -228,3 +228,14 @@ As for the garbage collect, you need to install `Boehm GC`.
 ## License
 
 MIT
+
+## QA
+
+No match for argument: gc-devel
+Error: Unable to find a match: gc-devel
+
+```
+
+dnf --enablerepo=PowerTools install gc-devel -y
+ 
+```

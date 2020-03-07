@@ -1,4 +1,4 @@
-cc=/usr/local/bin/gcc
+cc=/usr/bin/gcc
 
 SRCS=ArrayList.c linq.c hashmap.c main.c 
 MACRO_SRCS=ArrayList.c linq.c hashmap.c main_macro.c
